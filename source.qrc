@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>nogo.jpg</file>
+    </qresource>
+</RCC>
